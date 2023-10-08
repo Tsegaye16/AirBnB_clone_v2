@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#configuring the web server for deployment of web_static.
+# configuring the web server for deployment of web_static.
 
 
 apt-get update
